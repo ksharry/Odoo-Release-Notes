@@ -1,1 +1,1 @@
-# Odoo-17-Release-Notes
+# Odoo書本使用。
