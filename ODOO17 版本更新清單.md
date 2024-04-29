@@ -1,4 +1,4 @@
-## ODOO17 企業板新功能
+## ODOO17版本新功能
 ODOO17發佈的消息-
   + [Odoo Experience 2023 - Opening Keynote - Unveiling Odoo 17](https://www.youtube.com/watch?v=fmVNEoxr7iU)，
   + [Meet Odoo 17: All the new features](https://www.youtube.com/watch?v=qxb74CMR748)
@@ -104,5 +104,3 @@ ODOO17發佈的消息-
     + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17011.png?raw=true)
     + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17012.png?raw=true)
 
-## 小結
-過往在這個時間測試社群版都會有遇到BUG情況，此次接觸企業版滿順利的，基本上有演示的功能都可以順利運行。首次接觸到17版的這些功能，雖然商業邏輯新增部分非台灣功能，但是對外的對接例如銀行，電子發票、AI產生、通訊軟體對接、網站優化..等各種非ERP範疇的功能加入後，可提供不同對接參考範例，也加強了此套軟體的結合效益。
