@@ -1,4 +1,5 @@
 ## ODOO18版本新功能
 ODOO18發佈的消息-
   + FB-Odoo 官方中文交流群組-PDF檔案-[Odoo18 Sneak Peak](https://www.facebook.com/download/457430710211485/Odoo18%20Sneak%20Peak.pdf?av=1190407304&eav=AfYKOUExZR61MAOqq3GVaCghJa5qkCtC_Mnsve0CL81IW_YYolWB7FWqz2xsFZkvSbQ&paipv=0&hash=AcqmEqL1W6DGx9iMV1k&__cft__[0]=AZX1ffG40BTfX5E1cGeTAI7qDHk0Plg4WnSRNVOOikdyDGsqfr6jXXbwvtXdvEEzTME4dkohn_qOk3052wP9Zxb9ZWzMmzvUflHO8pIKIB-PbiiETuOOjsNff7mq-sWlpWUD5GPjoYP2HwSu3xj-cTgyJPBz8l8jLLZvxjxUHcuBiTO55vXlx67rXpDXYQEDdQgNnSNsLoI8RZeiCFYSjyLXyGRC75_qt2k700frQEs_2QD9Zx-aR9mUuWcIJ7WtewQ&__tn__=H-R)
+  + odoo18安裝腳本搭配Ubuntu 24.04-[網址](https://github.com/hrmuwanika/odoo/blob/18.0/install_odoo_ubuntu.sh)
 
