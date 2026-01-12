@@ -1,106 +1,62 @@
-## ODOO17版本新功能
-ODOO17發佈的消息-
-  + [Odoo Experience 2023 - Opening Keynote - Unveiling Odoo 17](https://www.youtube.com/watch?v=fmVNEoxr7iU)，
-  + [Meet Odoo 17: All the new features](https://www.youtube.com/watch?v=qxb74CMR748)
+# Odoo 17 版本更新摘要
 
-#### 總目錄
-![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17044.png?raw=true)
+本摘要綜合了官方發布筆記與實戰手冊的重點內容，整理如下：
 
-#### User-Friendly
-1. Icon重新設計。
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17033.png?raw=true)
-2. 新增深色模式
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17032.png?raw=true)
-3. 看板畫面調整
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17034.png?raw=true)
-4. 模組的Icon可以拖拉調整
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17035.png?raw=true)
-5. 整合搜尋與分組功能
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17036.png?raw=true)
-6. Ctrl-K的優化
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17037.png?raw=true)
-#### Website Builder
-7. 圖片的拖拉功能
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17038.png?raw=true)
-8. ChatGPT的文字建議
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17020.png?raw=true)
-9. 新增圖片動畫。
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17039.png?raw=true)
-10. 手機響應式畫面
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17040.png?raw=true)
-11. 新頁面的樣板選擇
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17041.png?raw=true)
-#### Starting a business
-12. 階段性增加耗用時間顯示
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17021.png?raw=true)
-13. 線上即時翻譯
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17022.png?raw=true)
-14. 訂單的整批選擇(Catalog)
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17023.png?raw=true)
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17024.png?raw=true)
-15. 可以客製的報價單樣板-透過PDF樣板
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17025.png?raw=true)
+## 1. 用戶體驗與介面 (User-Friendly)
+*   **全新視覺設計**: 介面全面現代化，圖示 (Icons) 重新設計，並正式支援**深色模式 (Dark Mode)**。
+*   **操作體驗優化**:
+    *   **可移動對話框**: 彈出視窗現在可以拖曳移動，方便查看被遮擋的資訊。
+    *   **進階搜尋**: 搜尋列整合了篩選與分組功能，操作更直觀。
+    *   **快捷鍵**: 強化 `Ctrl+K` 指令與全域搜尋。
+    *   **看板與列表**: 看板視圖支援直接在欄位中快速建立紀錄；列表視圖支援大量複製與貼上。
+*   **PWA 支援**: 可將 Odoo 作為應用程式安裝在手機或桌面，提升存取便利性。
 
-#### POS
-16. POS KIOSK點餐
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17017.png?raw=true)
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17018.png?raw=true)
-17. POS 餐廳後台出餐
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17019.png?raw=true)
-#### Whatapp
-18. 聊天語音訊息/視訊會議/Whatapp整合
-   + 教學-[設定網址](https://www.odoo.com/documentation/17.0/applications/productivity/whatsapp.html)
-   + YT-[網址](https://www.youtube.com/watch?v=4k4wSQ6sqpw)
-   + webhook-[設定網址](https://developers.facebook.com/docs/whatsapp/sample-app-endpoints)
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17042.png?raw=true)
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17043.png?raw=true)
-#### logistic
-19. 製造預測數量。
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17026.png?raw=true)
-20. 工作訪(shopfloor)的多工作中心調整/使用或上傳文件/工序調整
-   + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17027.png?raw=true)
+## 2. 網站建置 (Website Builder)
+*   **AI 智能輔助**: 整合 ChatGPT，可協助生成或優化網頁文案。
+*   **設計工具升級**:
+    *   支援 **WebP** 圖片格式，提升載入速度。
+    *   新增圖片裁切形狀、滑鼠游標動畫效果。
+    *   網格佈局 (Grid Layout) 與間距調整更靈活。
+*   **Scraping 功能**: 可輸入網址將現有外部網站的設計元素轉換為 Odoo 網站。
 
-#### Service
-21. 專案的自動化規則
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17028.png?raw=true)
-22. timesheet有計費率與排行版
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17029.png?raw=true)
+## 3. 業務銷售 (Sales & Business)
+*   **產品目錄 (Catalog)**: 在報價單或採購單中，可直接開啟產品目錄視窗進行快速選購 (類似電商介面)。
+*   **PDF 報價單建構器**: 允許上傳自訂的 PDF 頁面 (如公司介紹、產品型錄) 並插入到報價單中，製作精美的銷售文件。
+*   **付款流程**: 支援首期付款 (Down Payment) 確認訂單，以及不完整付款的處理流程。
 
-#### knowledge
-23. 有樣板選擇
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17030.png?raw=true)
-24. 有比較功能
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17031.png?raw=true)
+## 4. 零售與餐飲 (POS)
+*   **自助服務 (Kiosk)**: 內建 Kiosk 模式，支援顧客自助點餐。
+*   **QR Code 點餐**: 顧客可掃描桌上 QR Code 瀏覽菜單並直接下單、付款。
+*   **廚房顯示系統 (KDS)**: 廚房螢幕介面優化，支援備料清單與多工作站協作。
+*   **預約整合**: 餐廳訂位資訊可直接同步至 POS 系統。
 
-#### Accounting
-25. PDF的分割與派送。
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17016.png?raw=true)
-26. 自動產生遞延費用的分錄-[設定](https://www.youtube.com/watch?v=umutqkzYNfw)
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17001.png?raw=true)
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17002.png?raw=true)
-27. 信用額度
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17003.png?raw=true)
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17004.png?raw=true)
-28. 電子發票-[peppol設定](https://www.youtube.com/watch?v=0Wy4qAv2K5c)
-29. 調節
-    + 新增銀行對帳單做分組用
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17010.png?raw=true)
-    + 遺失的數據-要連接銀行才能使用。
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17009.png?raw=true)
-    + 應收付對沖
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17005.png?raw=true)
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17006.png?raw=true)
-    + 自動調節
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17007.png?raw=true)
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17008.png?raw=true)
-30. 報表
-    + filter favor
-    + closing binder
-    + 分析帳戶調整
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17013.png?raw=true)
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17014.png?raw=true)
-      + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17015.png?raw=true)
-31. 多公司的樣板
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17011.png?raw=true)
-    + ![Alt text](https://github.com/ksharry/2024-ODOO17-Enterprise-Plan/blob/main/pic/F17012.png?raw=true)
+## 5. 通訊整合 (WhatsApp)
+*   **WhatsApp 整合**: 官方正式支援 WhatsApp Business API。
+    *   可從系統直接發送訂單確認、出貨通知等訊息。
+    *   支援行銷推廣訊息發送。
+    *   整合至討論區 (Discuss) 進行對話管理。
 
+## 6. 物流與製造 (Inventory & Manufacturing)
+*   **Shop Floor (現場工作站)**: 全新的製造執行系統 (MES) 介面，專為平板設計，取代舊有的工單視圖，操作更直觀。
+*   **庫存管理**:
+    *   新增 **庫存帳齡報告 (Inventory Aging)**，協助分析滯銷品。
+    *   優化盤點流程與預留策略 (如最少包裝策略)。
+*   **製造預測**: 根據組件預計到達時間，預測製造訂單的開工與完工時間。
+
+## 7. 服務管理 (Service)
+*   **專案管理**:
+    *   任務狀態自訂更靈活。
+    *   支援從專案任務中直接產生銷售訂單 (追加銷售)。
+*   **工時表**: 支援計費率設定與排行榜功能。
+
+## 8. 知識庫 (Knowledge)
+*   **協作升級**: 支援多人同時編輯、評論功能。
+*   **結構轉換**: 文章可轉換為專案任務，反之亦然。
+*   **範本庫**: 提供多種預設範本，快速建立文件。
+
+## 9. 會計 (Accounting)
+*   **分公司管理 (Branch Management)**: 支援在同一公司下管理多個分公司/部門的會計帳務。
+*   **AI 智能辨識**: 供應商帳單 (Vendor Bills) 的 AI 辨識率與預測功能提升。
+*   **電子發票**: 支援 Peppol 標準及更多國家的在地化電子發票格式。
+*   **遞延收支**: 全新的遞延費用與收入管理介面，不需預設模型即可操作。
+*   **報表功能**: 報表支援 PDF 分割與自動派送；新增資產負債表的分析帳戶調整功能。
